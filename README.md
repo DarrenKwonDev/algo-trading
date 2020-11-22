@@ -4,6 +4,7 @@
 
 ## Intro   
 python 3.7.7 기반의 algorithmic trading  
+알고리즘 트레이딩을 개발하여 수익을 내기보다는 데이터 분석 연습을 하는 데에 목적이 있습니다.  
 [upbeat 개발자 센터](https://docs.upbit.com/)
 
 ## Install
@@ -19,7 +20,7 @@ python -m venv .venv
 .\.venv\Scripts\activate
 ```
 
-- requirements.txt generate
+- generate requirements.txt  
 ```bash
 pip freeze > requirements.txt
 ```
@@ -29,7 +30,6 @@ pip freeze > requirements.txt
 [quantstart](https://www.quantstart.com/)  
 [investopedia](https://www.investopedia.com/)  
 [Python을 이용한 주가 백테스팅 시스템 구축하기](https://www.inflearn.com/course/python-%EC%A3%BC%EA%B0%80-%EB%B0%B1%ED%85%8C%EC%8A%A4%ED%8C%85#description)
-
 
 ## trouble shooting
 
