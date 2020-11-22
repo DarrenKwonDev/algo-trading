@@ -3,7 +3,7 @@
 <img src="./images/upbit.png" />
 
 ## Intro   
-python 3.7.7 기반의 algorithm-trading  
+python 3.7.7 기반의 algorithmic trading  
 [upbeat 개발자 센터](https://docs.upbit.com/)
 
 ## Install
